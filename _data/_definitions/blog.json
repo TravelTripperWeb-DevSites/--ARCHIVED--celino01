@@ -17,7 +17,7 @@
     "url_friendly_name":
       {"type":"url_slug"},
     "url_name":
-      {"type":"url"},
+      {"type":"url", "multiple":true},
     "date":
       {"type":"date","required":true},
     "Posted_by":
