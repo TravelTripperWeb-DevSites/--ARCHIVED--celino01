@@ -1,6 +1,11 @@
 {
-  "sort_order": 1,
-  "title": "Test",
+  "sort_order": "",
+  "url_name": [
+    "test1.com",
+    "test2.com",
+    "test3.com"
+  ],
+  "title": "test1",
   "blogimage": {
     "name": "halloween-party-miami",
     "content_type": "image/jpeg",
@@ -25,9 +30,5 @@
     "caption": "",
     "description": ""
   },
-  "url_name": "test1.com",
-  "date": "2019-10-28T00:00:00.000Z",
-  "Image_caption": "<p>test</p>",
-  "short_description": "<p>test</p>",
-  "more_content": "<p>test</p>"
+  "date": "2019-10-29T00:00:00.000Z"
 }
