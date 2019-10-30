@@ -3,7 +3,7 @@
   "category": "category1",
   "title": "test33",
   "url_name": [
-    "http://domain.com",
+    "http://domain.co",
     "https://abc.def.ghi/?abc=def",
     "//myurl.net/my%20url",
     "/a-non-domained-url/#hi"
