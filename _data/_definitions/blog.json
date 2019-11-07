@@ -16,6 +16,8 @@
       {"type":"text"},
     "url_friendly_name":
       {"type":"url_slug"},
+    "url_name":
+      {"type":"url","required":true},
     "date":
       {"type":"date","required":true},
     "Posted_by":
